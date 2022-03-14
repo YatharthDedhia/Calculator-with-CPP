@@ -8,3 +8,4 @@
 5. Factorial
 6. Any Root (square root, cube root, 4th root, etc.)
 7. Any Power of any Number
+fjwifw

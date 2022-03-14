@@ -1,6 +1,6 @@
 # A Calculator app made using CPP
 
-##Functionalities:
+## Functionalities:
 1. Addition
 2. Subtraction
 3. Multiplication

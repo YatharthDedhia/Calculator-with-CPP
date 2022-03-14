@@ -1,5 +1,10 @@
-# Welcome to GitHub Desktop!
+# A Calculator app made using CPP
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+##Functionalities:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Factorial
+6. Any Root (square root, cube root, 4th root, etc.)
+7. Any Power of any Number
